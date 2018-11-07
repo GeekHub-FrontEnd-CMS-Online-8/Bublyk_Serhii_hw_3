@@ -1,0 +1,86 @@
+table {
+   margin-left: auto;
+    margin-right: auto;
+    margin-bottom:20px;
+    margin-top: 20px;
+    table-layout: auto;
+}
+table td {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+table th {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top:5px;
+    padding-bottom: 5px
+}
+table.one {
+    border: 1px solid grey;
+    width: 1000px;
+    }
+table.one th {
+    border: 1px solid grey;
+    text-align: center;
+}
+table.one td {
+    border: 1px solid grey;
+    }
+table.two {
+
+    border: 1px solid grey;
+    width:590px;
+}
+table.two th {
+    border: 1px solid grey;
+    text-align: center;
+}
+table.two td {
+    border: 1px solid grey;
+}
+table.three {
+    width:590px;
+    border-collapse: collapse;
+    border: 3px ridge gray;
+}
+table.three th {
+    border-collapse: collapse;
+    border: 3px ridge gray;
+    text-align: left;
+}
+table.three td {
+    border-collapse: collapse;
+    border: 3px ridge gray;
+}
+.bo{
+    font-weight:bold
+}
+.seventy {
+    width:70px;
+}
+.oht{
+    width:110px;
+    word-wrap:break-word;
+}
+.ohf{
+    width:140px;
+    word-wrap:break-word;
+}
+.thf{
+    width:250px;
+    word-wrap:break-word;
+}
+.culty {
+    width:325px;
+    word-wrap:break-word;
+}
+.spektr {
+    width: 150px;
+    vertical-align:top;
+}
+.norma {
+    vertical-align:top;
+    width: 65px;
+ }
